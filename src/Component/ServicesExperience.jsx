@@ -40,8 +40,9 @@ function ServicesExperience() {
         </div>
         <div className="experiences" id="experiences">
           <div className="experience">
-            <h3>12</h3>
-            <p>Year Experience</p>
+            <h3>0</h3>
+            {/* <p>Year Experience</p> */}
+            <p>Fresher</p>
           </div>
           <div className="portfolios">
             <div className="portfolio">
