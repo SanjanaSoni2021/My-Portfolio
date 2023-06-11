@@ -1,6 +1,6 @@
 import React from "react"
-function Header(){
-    return(
+function Header() {
+    return (
         <div>
             <header>
                 <div className="header-inner">
@@ -9,13 +9,13 @@ function Header(){
                         <a className="link" href="#banner">
                             Home
                         </a>
-                        <a className="link" href="#banner">
+                        <a className="link" href="#services">
                             services
                         </a>
-                        <a className="link" href="#banner">
+                        <a className="link" href="#experience">
                             Experience
                         </a>
-                        <a className="link" href="#banner">
+                        <a className="link" href="#projects">
                             Projects
                         </a>
                     </div>
