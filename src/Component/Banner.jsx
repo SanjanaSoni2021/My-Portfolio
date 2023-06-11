@@ -9,7 +9,7 @@ function Banner() {
             <img src="/person.png" alt="" />
           </div>
           <div className="banner-content">
-            <h6>Hello, I'm Sanjana soni</h6>
+            <h6>Hello, I'm Sanjana Soni</h6>
             <h3>Web Developer</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum,
